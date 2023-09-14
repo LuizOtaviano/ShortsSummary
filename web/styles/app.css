@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#app > h1 {
+  color: #996dff;
+  margin-top: -5px;
+}
